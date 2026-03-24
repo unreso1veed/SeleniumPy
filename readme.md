@@ -2,6 +2,7 @@
 UI Autotests for sverh.tech 
 ---------
 Includes autotests written on Selenium for main page and navigation menu
+
 Tests basic functionallity 
 
 
