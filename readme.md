@@ -14,7 +14,7 @@ Installing and running tests
 3) These repo includes local version of chrome.webdriver, so you dont need to install it manually
 4) After installing use **pytest tests** in terminal
 
-![console log screen](console.pngl)
+![console log screen](console.png)
 
 
 ---------
