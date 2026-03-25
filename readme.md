@@ -1,10 +1,9 @@
 ---------
-Examples of autotests on Python Selenium written for sverh.tech
+UI Autotests for sverh.tech 
 ---------
-based on Selenium
+Includes autotests written on Selenium for main page and navigation menu
 
-includes local chromedriver 
+Testing basic functionallity 
 
-#later will be removed 
 
- based on public information, used only as example 
+Based on the intellectual property of third parties, by open source. Using only as example. 
