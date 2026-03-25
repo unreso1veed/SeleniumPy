@@ -6,6 +6,9 @@ The repository contains UI Autotests written in the Selenium + pytest framework 
 
 These automated tests cover most of the functionality of the <https://sverh.tech> website.
 
+--------
+Installing and running tests
+--------
 pip install pytest
 pip install selenium
 brew install chrome.webdriver
