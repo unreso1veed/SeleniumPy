@@ -3,6 +3,7 @@ UI Autotests for sverh.tech
 ---------
 
 The repository contains UI Autotests written in the Selenium + pytest framework for **sverh.tech**. 
+
 These automated tests cover most of the functionality of the <https://sverh.tech> website.
 
 pip install pytest
