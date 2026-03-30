@@ -18,7 +18,7 @@ source .venv/bin/activate (macOS, Linux) or
 
 .venv\Scripts\activate (Windows)
 
-pip install pytest selenium (or requierments.txt)
+pip install pytest selenium webdriver-manager (or requierments.txt)
 
 3) These repo includes local version of chrome.webdriver, so you dont need to install it manually
 4) After installing use **pytest tests** in terminal
